@@ -1,0 +1,275 @@
+[
+  {
+    "id": "1",
+    "slug": "mykonos-villa-panorama",
+    "title": {
+      "el": "Πανοραμική Βίλα στη Μύκονο",
+      "en": "Panoramic Villa in Mykonos"
+    },
+    "description": {
+      "el": "Μαγευτική βίλα με απεριόριστη θέα στο Αιγαίο και την Δήλο. Σύγχρονη αρχιτεκτονική που αγκαλιάζει το φυσικό περιβάλλον της Μυκόνου.",
+      "en": "Enchanting villa with unlimited views of the Aegean Sea and Delos. Contemporary architecture that embraces the natural environment of Mykonos."
+    },
+    "price": 2850000,
+    "transactionType": "buy",
+    "propertyType": "villa",
+    "location": {
+      "el": "Μύκονος, Κυκλάδες",
+      "en": "Mykonos, Cyclades"
+    },
+    "specifications": {
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "area": 320,
+      "plotSize": 2200,
+      "yearBuilt": 2019,
+      "energyClass": "A+"
+    },
+    "features": {
+      "el": ["Πισίνα", "Κήπος", "Γκαράζ", "Θέα θάλασσα", "Κλιματισμός", "Τζάκι"],
+      "en": ["Swimming Pool", "Garden", "Garage", "Sea View", "Air Conditioning", "Fireplace"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": true,
+    "seo": {
+      "title": {
+        "el": "Πανοραμική Βίλα προς Πώληση στη Μύκονο | Nikos Karinopoulos",
+        "en": "Panoramic Villa for Sale in Mykonos | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Εξαιρετική βίλα 320 τ.μ. με θέα στο Αιγαίο. 5 υπνοδωμάτια, πισίνα, κήπος. €2.850.000",
+        "en": "Exceptional 320m² villa with Aegean views. 5 bedrooms, pool, garden. €2,850,000"
+      }
+    }
+  },
+  {
+    "id": "2",
+    "slug": "paros-traditional-house",
+    "title": {
+      "el": "Παραδοσιακή Κατοικία στην Πάρο",
+      "en": "Traditional House in Paros"
+    },
+    "description": {
+      "el": "Αυθεντική παραδοσιακή κατοικία στην καρδιά της Παροικίας. Ανακαινισμένη με σεβασμό στην κυκλαδική αρχιτεκτονική.",
+      "en": "Authentic traditional house in the heart of Parikia. Renovated with respect for Cycladic architecture."
+    },
+    "price": 650000,
+    "transactionType": "buy",
+    "propertyType": "house",
+    "location": {
+      "el": "Παροικία, Πάρος",
+      "en": "Parikia, Paros"
+    },
+    "specifications": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 140,
+      "yearBuilt": 1890,
+      "energyClass": "C"
+    },
+    "features": {
+      "el": ["Αυλή", "Παραδοσιακή Αρχιτεκτονική", "Κέντρο", "Ανακαινισμένο"],
+      "en": ["Courtyard", "Traditional Architecture", "City Center", "Renovated"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": true,
+    "seo": {
+      "title": {
+        "el": "Παραδοσιακή Κατοικία προς Πώληση στην Πάρο | Nikos Karinopoulos",
+        "en": "Traditional House for Sale in Paros | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Αυθεντική παραδοσιακή κατοικία 140 τ.μ. στην Παροικία. 3 υπνοδωμάτια, αυλή. €650.000",
+        "en": "Authentic traditional 140m² house in Parikia. 3 bedrooms, courtyard. €650,000"
+      }
+    }
+  },
+  {
+    "id": "3",
+    "slug": "athens-penthouse-kolonaki",
+    "title": {
+      "el": "Πεντχάουζ στο Κολωνάκι",
+      "en": "Penthouse in Kolonaki"
+    },
+    "description": {
+      "el": "Εκλεπτυσμένο πεντχάουζ στην καρδιά του Κολωνακίου με εκπληκτική θέα στην Ακρόπολη και τον Λυκαβηττό.",
+      "en": "Sophisticated penthouse in the heart of Kolonaki with stunning views of the Acropolis and Lycabettus Hill."
+    },
+    "price": 1200000,
+    "transactionType": "buy",
+    "propertyType": "penthouse",
+    "location": {
+      "el": "Κολωνάκι, Αθήνα",
+      "en": "Kolonaki, Athens"
+    },
+    "specifications": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area": 180,
+      "yearBuilt": 2021,
+      "energyClass": "A+"
+    },
+    "features": {
+      "el": ["Ταράτσα", "Θέα Ακρόπολη", "Ασανσέρ", "Υπόγεια Θέση", "Κλιματισμός", "Ενεργειακό Τζάκι"],
+      "en": ["Roof Terrace", "Acropolis View", "Elevator", "Underground Parking", "Air Conditioning", "Energy Fireplace"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": true,
+    "seo": {
+      "title": {
+        "el": "Πεντχάουζ προς Πώληση στο Κολωνάκι | Nikos Karinopoulos",
+        "en": "Penthouse for Sale in Kolonaki | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Εκλεπτυσμένο πεντχάουζ 180 τ.μ. με θέα Ακρόπολη. 3 υπνοδωμάτια, ταράτσα. €1.200.000",
+        "en": "Sophisticated 180m² penthouse with Acropolis views. 3 bedrooms, roof terrace. €1,200,000"
+      }
+    }
+  },
+  {
+    "id": "4",
+    "slug": "santorini-apartment-oia",
+    "title": {
+      "el": "Διαμέρισμα στην Οία Σαντορίνης",
+      "en": "Apartment in Oia, Santorini"
+    },
+    "description": {
+      "el": "Υπέροχο διαμέρισμα στην περίφημη Οία με θέα στο ηφαίστειο και τα πιο εντυπωσιακά ηλιοβασιλέματα του κόσμου.",
+      "en": "Beautiful apartment in famous Oia with views of the volcano and the world's most impressive sunsets."
+    },
+    "price": 4500,
+    "transactionType": "rent",
+    "propertyType": "apartment",
+    "location": {
+      "el": "Οία, Σαντορίνη",
+      "en": "Oia, Santorini"
+    },
+    "specifications": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 85,
+      "yearBuilt": 2018,
+      "energyClass": "A"
+    },
+    "features": {
+      "el": ["Θέα Ηφαιστείου", "Παραδοσιακή Αρχιτεκτονική", "Βεράντα", "Πλήρως Επιπλωμένο"],
+      "en": ["Volcano View", "Traditional Architecture", "Veranda", "Fully Furnished"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": false,
+    "seo": {
+      "title": {
+        "el": "Διαμέρισμα προς Ενοικίαση στην Οία Σαντορίνης | Nikos Karinopoulos",
+        "en": "Apartment for Rent in Oia, Santorini | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Υπέροχο διαμέρισμα 85 τ.μ. με θέα ηφαιστείου στην Οία. 2 υπνοδωμάτια. €4.500/μήνα",
+        "en": "Beautiful 85m² apartment with volcano views in Oia. 2 bedrooms. €4,500/month"
+      }
+    }
+  },
+  {
+    "id": "5",
+    "slug": "crete-villa-chania",
+    "title": {
+      "el": "Βίλα στα Χανιά Κρήτης",
+      "en": "Villa in Chania, Crete"
+    },
+    "description": {
+      "el": "Μοναδική βίλα με παραδοσιακά στοιχεία κρητικής αρχιτεκτονικής, περιτριγυρισμένη από ελαιόδεντρα και κήπους.",
+      "en": "Unique villa with traditional Cretan architecture elements, surrounded by olive trees and gardens."
+    },
+    "price": 890000,
+    "transactionType": "buy",
+    "propertyType": "villa",
+    "location": {
+      "el": "Χανιά, Κρήτη",
+      "en": "Chania, Crete"
+    },
+    "specifications": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 220,
+      "plotSize": 1800,
+      "yearBuilt": 2020,
+      "energyClass": "A"
+    },
+    "features": {
+      "el": ["Ελαιόδεντρα", "Κήπος", "Παραδοσιακή Αρχιτεκτονική", "Πισίνα", "BBQ"],
+      "en": ["Olive Trees", "Garden", "Traditional Architecture", "Swimming Pool", "BBQ"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": true,
+    "seo": {
+      "title": {
+        "el": "Βίλα προς Πώληση στα Χανιά Κρήτης | Nikos Karinopoulos",
+        "en": "Villa for Sale in Chania, Crete | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Μοναδική βίλα 220 τ.μ. με ελαιόδεντρα στα Χανιά. 4 υπνοδωμάτια, πισίνα. €890.000",
+        "en": "Unique 220m² villa with olive trees in Chania. 4 bedrooms, swimming pool. €890,000"
+      }
+    }
+  },
+  {
+    "id": "6",
+    "slug": "naxos-plot-plaka",
+    "title": {
+      "el": "Οικόπεδο στην Πλάκα Νάξου",
+      "en": "Plot in Plaka, Naxos"
+    },
+    "description": {
+      "el": "Προνομιακό οικόπεδο σε μία από τις ομορφότερες παραλίες του Αιγαίου, ιδανικό για την κατασκευή ονειρικής κατοικίας.",
+      "en": "Prime plot on one of the most beautiful beaches in the Aegean, ideal for building a dream residence."
+    },
+    "price": 320000,
+    "transactionType": "buy",
+    "propertyType": "land",
+    "location": {
+      "el": "Πλάκα, Νάξος",
+      "en": "Plaka, Naxos"
+    },
+    "specifications": {
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "area": 0,
+      "plotSize": 2500,
+      "energyClass": "N/A"
+    },
+    "features": {
+      "el": ["Θέα Θάλασσα", "Παραλία", "Οικοδομήσιμο", "Ήσυχη Περιοχή"],
+      "en": ["Sea View", "Beachfront", "Buildable", "Quiet Area"]
+    },
+    "images": [
+      "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "https://images.pexels.com/photos/2102587/pexels-photo-2102587.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "featured": false,
+    "seo": {
+      "title": {
+        "el": "Οικόπεδο προς Πώληση στην Πλάκα Νάξου | Nikos Karinopoulos",
+        "en": "Plot for Sale in Plaka, Naxos | Nikos Karinopoulos"
+      },
+      "description": {
+        "el": "Προνομιακό οικόπεδο 2.500 τ.μ. στην παραλία Πλάκα. Θέα θάλασσα, οικοδομήσιμο. €320.000",
+        "en": "Prime 2,500m² plot at Plaka beach. Sea view, buildable. €320,000"
+      }
+    }
+  }
+]

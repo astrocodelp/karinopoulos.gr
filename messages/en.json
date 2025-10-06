@@ -1,0 +1,142 @@
+{
+  "navigation": {
+    "home": "Home",
+    "properties": "Properties",
+    "services": "Services",
+    "about": "About",
+    "journal": "Journal",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Discover Exceptional Properties in Greece",
+    "subtitle": "Specialized real estate services for the finest properties in the Greek islands and Athens",
+    "cta": "Browse Properties"
+  },
+  "filters": {
+    "filters": "Filters",
+    "transactionType": "Transaction Type",
+    "propertyType": "Property Type",
+    "buy": "Buy",
+    "rent": "Rent",
+    "all": "All",
+    "apartment": "Apartment",
+    "villa": "Villa",
+    "house": "House",
+    "land": "Land",
+    "penthouse": "Penthouse",
+    "priceRange": "Price Range",
+    "bedrooms": "Bedrooms",
+    "area": "Area (m²)",
+    "location": "Location",
+    "sortBy": "Sort By",
+    "sortPrice": "Price",
+    "sortArea": "Area",
+    "sortDate": "Date",
+    "apply": "Apply",
+    "clear": "Clear"
+  },
+  "property": {
+    "bedrooms": "{count, plural, =0 {Studio} =1 {1 Bedroom} other {# Bedrooms}}",
+    "bathrooms": "{count, plural, =1 {1 Bathroom} other {# Bathrooms}}",
+    "area": "m²",
+    "plotSize": "Plot Size",
+    "yearBuilt": "Year Built",
+    "energyClass": "Energy Class",
+    "features": "Features",
+    "enquire": "Enquire",
+    "viewDetails": "View Details",
+    "gallery": "Gallery",
+    "specifications": "Specifications",
+    "location": "Location"
+  },
+  "about": {
+    "title": "Nikos Karinopoulos",
+    "subtitle": "Specialized Real Estate Consultant",
+    "description": "With over 15 years of experience in the Greek real estate market, I specialize in finding and promoting exceptional properties in the Cycladic islands and Athens.",
+    "values": {
+      "title": "My Values",
+      "integrity": "Integrity",
+      "expertise": "Expertise",
+      "service": "Service"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "I'm here to help with all your real estate needs",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Your message has been sent successfully!",
+      "error": "Please fill in all required fields."
+    },
+    "info": {
+      "office": "Office",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Business Hours"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Comprehensive solutions for all your real estate needs",
+    "selling": {
+      "title": "Property Selling",
+      "description": "Specialized support to sell your property at maximum value."
+    },
+    "buying": {
+      "title": "Property Buying",
+      "description": "Find the perfect property that fits your needs and budget."
+    },
+    "valuation": {
+      "title": "Property Valuation",
+      "description": "Professional property valuation based on current market conditions."
+    },
+    "management": {
+      "title": "Property Management",
+      "description": "Complete management of your property for maximum returns."
+    }
+  },
+  "journal": {
+    "title": "Journal",
+    "subtitle": "Updates and insights on the Greek real estate market",
+    "description": "I am preparing specialized content to keep you updated with the latest trends and opportunities in the Greek real estate market.",
+    "comingSoon": "Coming Soon",
+    "marketUpdates": "Market Updates & Analysis",
+    "upcomingTitle": "Coming to the Journal",
+    "features": {
+      "monthly": "Monthly Analysis",
+      "monthlyDesc": "Trends and statistics",
+      "investment": "Investment Opportunities",
+      "investmentDesc": "Suggestions and advice",
+      "instant": "Instant Updates",
+      "instantDesc": "News and developments"
+    },
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Subscribe to receive the latest real estate market updates and analysis.",
+      "subscribe": "Subscribe",
+      "note": "Almost ready! Will be activated soon."
+    },
+    "cta": {
+      "title": "Need Immediate Help?",
+      "description": "While waiting for new content, contact me for immediate advice.",
+      "button": "Contact Me"
+    }
+  },
+  "footer": {
+    "tagline": "Specialized Real Estate Consultant",
+    "description": "Specialized real estate services in Greece",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "All rights reserved."
+  }
+}
