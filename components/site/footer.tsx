@@ -79,7 +79,6 @@ export function Footer({ locale }: FooterProps) {
             <ul className="space-y-4">
               {[
                 { label: tNav('home'), href: `/${locale}` },
-                { label: tNav('properties'), href: `/${locale}/properties` },
                 { label: tNav('services'), href: `/${locale}/services` },
                 { label: tNav('about'), href: `/${locale}/about` },
                 { label: tNav('journal'), href: `/${locale}/journal` },

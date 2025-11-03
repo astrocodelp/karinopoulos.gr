@@ -63,9 +63,9 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
             {t('subtitle')}
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <Link href={`/${locale}/properties`}>
+            <Link href={`/${locale}/contact`}>
               <Button size="lg" className="bg-blue-700 hover:bg-blue-800 text-white px-8 py-4 text-lg rounded-2xl transition-all duration-300 hover:scale-105 shadow-2xl hover:shadow-3xl border border-blue-600">
-                {t('cta')}
+                {locale === 'el' ? 'Επικοινωνία' : 'Contact Us'}
                 <ArrowRight className="ml-2 h-5 w-5" />
               </Button>
             </Link>
@@ -120,7 +120,7 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
         </div>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <Link href={`/${locale}/properties?type=buy`}>
+          <Link href={`/${locale}/contact`}>
             <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 text-center group">
               <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <TrendingUp className="h-8 w-8 text-blue-700 group-hover:scale-110 transition-transform duration-300" />
@@ -134,7 +134,7 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
             </div>
           </Link>
           
-          <Link href={`/${locale}/properties?type=rent`}>
+          <Link href={`/${locale}/contact`}>
             <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 text-center group">
               <div className="w-16 h-16 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Users className="h-8 w-8 text-amber-600 group-hover:scale-110 transition-transform duration-300" />
@@ -148,7 +148,7 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
             </div>
           </Link>
           
-          <Link href={`/${locale}/properties?location=mykonos`}>
+          <Link href={`/${locale}/contact`}>
             <div className="bg-white p-8 rounded-2xl shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-2 text-center group">
               <div className="w-16 h-16 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4">
                 <Award className="h-8 w-8 text-emerald-600 group-hover:scale-110 transition-transform duration-300" />
@@ -189,9 +189,9 @@ export default async function HomePage({ params: { locale } }: HomePageProps) {
         </div>
 
         <div className="text-center">
-          <Link href={`/${locale}/properties`}>
+          <Link href={`/${locale}/contact`}>
             <Button variant="outline" size="lg" className="rounded-2xl px-8">
-              {locale === 'el' ? 'Δείτε Όλα τα Ακίνητα' : 'View All Properties'}
+              {locale === 'el' ? 'Επικοινωνήστε Μαζί Μας' : 'Contact Us'}
               <ArrowRight className="ml-2 h-5 w-5" />
             </Button>
           </Link>

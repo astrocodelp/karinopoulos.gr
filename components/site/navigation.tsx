@@ -27,7 +27,6 @@ export function Navigation({ locale }: NavigationProps) {
 
   const navigationItems = [
     { label: t('home'), href: `/${locale}` },
-    { label: t('properties'), href: `/${locale}/properties` },
     { label: t('services'), href: `/${locale}/services` },
     { label: t('about'), href: `/${locale}/about` },
     { label: t('journal'), href: `/${locale}/journal` },
