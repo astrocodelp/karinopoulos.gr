@@ -113,14 +113,14 @@ export function PropertyCard({ property, locale }: PropertyCardProps) {
           </div>
         )}
 
-        {/* View Details Button */}
-        <Link href={`/${locale}/properties/${property.slug}`}>
+        {/* Contact Button */}
+        <Link href={`/${locale}/contact`}>
           <Button 
             className="w-full bg-blue-700 hover:bg-blue-800 text-white transition-colors duration-200"
             size="sm"
           >
             <Eye className="h-4 w-4 mr-2" />
-            {t('viewDetails')}
+            {locale === 'el' ? 'Επικοινωνία' : 'Contact Us'}
           </Button>
         </Link>
       </div>
