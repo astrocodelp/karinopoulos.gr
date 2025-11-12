@@ -29,7 +29,7 @@ export function Navigation({ locale }: NavigationProps) {
     { label: t('home'), href: `/${locale}` },
     { label: t('services'), href: `/${locale}/services` },
     { label: t('about'), href: `/${locale}/about` },
-    { label: t('journal'), href: `/${locale}/journal` },
+    { label: t('successStories'), href: `/${locale}/success-stories` },
     { label: t('contact'), href: `/${locale}/contact` },
   ];
 

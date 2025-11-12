@@ -81,7 +81,7 @@ export function Footer({ locale }: FooterProps) {
                 { label: tNav('home'), href: `/${locale}` },
                 { label: tNav('services'), href: `/${locale}/services` },
                 { label: tNav('about'), href: `/${locale}/about` },
-                { label: tNav('journal'), href: `/${locale}/journal` },
+                { label: tNav('successStories'), href: `/${locale}/success-stories` },
                 { label: tNav('contact'), href: `/${locale}/contact` },
               ].map((item) => (
                 <li key={item.href}>

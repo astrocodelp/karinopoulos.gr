@@ -36,7 +36,7 @@ A production-ready bilingual real estate website built with Next.js, next-intl v
 │   │   ├── properties/           # Properties section
 │   │   ├── services/             # Services page
 │   │   ├── about/                # About page
-│   │   ├── journal/              # Journal (coming soon)
+│   │   ├── success-stories/      # Success Stories page
 │   │   └── contact/              # Contact page
 │   └── layout.tsx                # Root layout with locale
 ├── components/

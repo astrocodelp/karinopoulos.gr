@@ -4,7 +4,7 @@
     "properties": "Properties",
     "services": "Services",
     "about": "About",
-    "journal": "Journal",
+    "successStories": "Success Stories",
     "contact": "Contact"
   },
   "hero": {
@@ -100,31 +100,24 @@
       "description": "Complete management of your property for maximum returns."
     }
   },
-  "journal": {
-    "title": "Journal",
-    "subtitle": "Updates and insights on the Greek real estate market",
-    "description": "I am preparing specialized content to keep you updated with the latest trends and opportunities in the Greek real estate market.",
-    "comingSoon": "Coming Soon",
-    "marketUpdates": "Market Updates & Analysis",
-    "upcomingTitle": "Coming to the Journal",
-    "features": {
-      "monthly": "Monthly Analysis",
-      "monthlyDesc": "Trends and statistics",
-      "investment": "Investment Opportunities",
-      "investmentDesc": "Suggestions and advice",
-      "instant": "Instant Updates",
-      "instantDesc": "News and developments"
+  "successStories": {
+    "title": "Success Stories",
+    "subtitle": "Real estate success stories from our satisfied clients",
+    "featured": "Featured Story",
+    "highlights": {
+      "success": "Client Success",
+      "successDesc": "Exceptional results for our clients",
+      "results": "Proven Results",
+      "resultsDesc": "Consistent market performance",
+      "satisfaction": "Satisfaction",
+      "satisfactionDesc": "98% client satisfaction rate"
     },
-    "newsletter": {
-      "title": "Stay Updated",
-      "description": "Subscribe to receive the latest real estate market updates and analysis.",
-      "subscribe": "Subscribe",
-      "note": "Almost ready! Will be activated soon."
-    },
+    "allStories": "Client Success Stories",
+    "readMore": "Read More",
     "cta": {
-      "title": "Need Immediate Help?",
-      "description": "While waiting for new content, contact me for immediate advice.",
-      "button": "Contact Me"
+      "title": "Ready to Achieve Your Real Estate Goals?",
+      "description": "Let's work together to find the perfect property or investment opportunity for you.",
+      "button": "Get in Touch"
     }
   },
   "footer": {
