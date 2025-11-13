@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { Button } from '@/components/ui/button';
-import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react';
+import { Phone, Mail, MapPin } from 'lucide-react';
 
 interface ContactPageProps {
   params: { locale: string };
@@ -212,46 +212,12 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
                 </div>
 
                 <div className="flex items-start gap-4">
-                  <MessageCircle className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-medium text-neutral-900">WhatsApp</p>
-                    <a href="https://wa.me/302101234567" className="text-neutral-600 hover:text-blue-700 transition-colors">
-                      +30 210 123 4567
-                    </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4">
                   <Mail className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-neutral-900">{t('info.email')}</p>
                     <a href="mailto:info@nikoskarinopoulos.gr" className="text-neutral-600 hover:text-blue-700 transition-colors">
                       info@nikoskarinopoulos.gr
                     </a>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4">
-                  <MapPin className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-medium text-neutral-900">
-                      {locale === 'el' ? 'Διεύθυνση' : 'Address'}
-                    </p>
-                    <p className="text-neutral-600">
-                      {locale === 'el' ? 'Κολωνάκι, Αθήνα' : 'Kolonaki, Athens'}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="flex items-start gap-4">
-                  <Clock className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
-                  <div>
-                    <p className="font-medium text-neutral-900">{t('info.hours')}</p>
-                    <div className="text-neutral-600 space-y-1">
-                      <p>{locale === 'el' ? 'Δευτέρα - Παρασκευή: 09:00 - 18:00' : 'Monday - Friday: 09:00 - 18:00'}</p>
-                      <p>{locale === 'el' ? 'Σάββατο: 10:00 - 15:00' : 'Saturday: 10:00 - 15:00'}</p>
-                      <p>{locale === 'el' ? 'Κυριακή: Κλειστά' : 'Sunday: Closed'}</p>
-                    </div>
                   </div>
                 </div>
               </div>
