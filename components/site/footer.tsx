@@ -111,10 +111,10 @@ export function Footer({ locale }: FooterProps) {
                   <div>
                     <div className="text-xs text-neutral-500 uppercase tracking-wide">{t('phone')}</div>
                     <a 
-                      href="tel:+302101234567" 
+                      href="tel:+306953089056" 
                       className="text-neutral-300 hover:text-blue-400 transition-colors duration-300 font-medium"
                     >
-                      +30 210 123 4567
+                      +30 695 308 9056
                     </a>
                   </div>
                 </div>
@@ -128,10 +128,10 @@ export function Footer({ locale }: FooterProps) {
                   <div>
                     <div className="text-xs text-neutral-500 uppercase tracking-wide">{t('email')}</div>
                     <a 
-                      href="mailto:info@nikoskarinopoulos.gr" 
+                      href="mailto:n.karinopoulos@solutionsgroup.gr" 
                       className="text-neutral-300 hover:text-blue-400 transition-colors duration-300 font-medium break-all"
                     >
-                      info@nikoskarinopoulos.gr
+                      n.karinopoulos@solutionsgroup.gr
                     </a>
                   </div>
                 </div>

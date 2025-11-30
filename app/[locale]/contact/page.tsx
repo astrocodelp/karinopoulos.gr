@@ -205,8 +205,8 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
                   <Phone className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-neutral-900">{t('info.phone')}</p>
-                    <a href="tel:+302101234567" className="text-neutral-600 hover:text-blue-700 transition-colors">
-                      +30 210 123 4567
+                    <a href="tel:+306953089056" className="text-neutral-600 hover:text-blue-700 transition-colors">
+                      +30 695 308 9056
                     </a>
                   </div>
                 </div>
@@ -215,8 +215,8 @@ export default function ContactPage({ params: { locale } }: ContactPageProps) {
                   <Mail className="h-6 w-6 text-blue-700 mt-1 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-neutral-900">{t('info.email')}</p>
-                    <a href="mailto:info@nikoskarinopoulos.gr" className="text-neutral-600 hover:text-blue-700 transition-colors">
-                      info@nikoskarinopoulos.gr
+                    <a href="mailto:n.karinopoulos@solutionsgroup.gr" className="text-neutral-600 hover:text-blue-700 transition-colors">
+                      n.karinopoulos@solutionsgroup.gr
                     </a>
                   </div>
                 </div>

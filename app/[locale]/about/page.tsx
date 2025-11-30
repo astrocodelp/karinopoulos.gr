@@ -206,12 +206,12 @@ export default async function AboutPage({ params: { locale } }: AboutPageProps) 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
               <div className="flex flex-col items-center">
                 <Phone className="h-8 w-8 text-blue-400 mb-4" />
-                <p className="text-neutral-300">+30 210 123 4567</p>
+                <p className="text-neutral-300">+30 695 308 9056</p>
               </div>
               
               <div className="flex flex-col items-center">
                 <Mail className="h-8 w-8 text-blue-400 mb-4" />
-                <p className="text-neutral-300">info@nikoskarinopoulos.gr</p>
+                <p className="text-neutral-300">n.karinopoulos@solutionsgroup.gr</p>
               </div>
               
               <div className="flex flex-col items-center">
